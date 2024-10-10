@@ -44,7 +44,7 @@ const Contact = () => {
             </p>
             <div className='flex flex-row gap-4 pt-8 pb-4 justify-start items-center text-center'>
                 <img src={email} alt="" className='h-4' />
-                <p>aerenevli@gmail.com</p>
+                <p>Eren@gmail.com</p>
             </div>
             <div className='flex flex-row gap-4 py-4 justify-start items-center text-center'>
                 <img src={phone} alt="" className='h-5' />
