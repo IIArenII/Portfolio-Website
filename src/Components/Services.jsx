@@ -4,7 +4,7 @@ import white_arrow from '../assets/arrow_icon.svg'
 const Services = () => {
   return (
    
-    <div className='flex h-auto bg-black px-7 pb-32 mx-auto items-center justify-between'>
+    <div id='services'className='flex h-auto bg-black px-7 pb-32 mx-auto items-center justify-between'>
         <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 w-full lg:px-32'>
             <div className='flex flex-col bg-black border-2 border-white rounded-xl text-white font-outfit py-4 px-5 gap-4 transform 
             transition-all duration-300 hover:scale-105 hover:bg-services-bg hover:border-bC lg:h-auto lg:text-2xl'>

@@ -20,7 +20,7 @@ const Navbar = () => {
         {/* Logo */}
         <img src={logo} alt="logo" className="w-24 h-auto cursor-pointer" />
 
-        {/* Menu Icon (Hamburger or Close Icon) */}
+        {/* Menu Icon (Menu or Close Icon) */}
         <div className="lg:hidden">
           <button onClick={toggleMenu} className="text-white 
           focus:outline-none">
