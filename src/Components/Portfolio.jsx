@@ -10,7 +10,7 @@ import arrow from '../assets/arrow_icon.svg'
 const Portfolio = () => {
   return (
     <div id='portfolio' className='h-auto bg-black px-7 pb-32 mx-auto items-center justify-between text-center font-outfit'>
-        <div id='services' className=' flex ' >
+        <div className=' flex ' >
             <div className='grid grid-cols-2 lg:grid-cols-3 gap-8 w-full lg:px-32'>
                 <div className='w-100 hover:scale-105 hover:border-4 rounded-10 hover:border-PH transition-all duration-300'>
                     <img src={project_1} alt="project_1" className='' />
